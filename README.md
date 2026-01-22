@@ -1,6 +1,4 @@
 "# Task_manager" 
-Here you go.
-This is **ONE single clean README.md**, ready to **copy–paste as-is**. No edits needed. 📄✨
 
 ---
 
